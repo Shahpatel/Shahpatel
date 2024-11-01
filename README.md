@@ -6,7 +6,7 @@ Dynamic and detail-oriented SDET with expertise in automation testing using Cypr
 🧑‍💻 Currently expanding my skills in Test Automation Frameworks and API Testing.                                                                                                                   
                                                                                                                                                                                                  🔍 Experienced in designing and executing test cases for diverse applications.                                                                                                                                                                                
 📊 Proven track record of delivering high-quality testing solutions within deadlines.                                                                                                             
-📍 Based in Kolhapur, Maharashtra.                                                                                                                                                                
-🌐 Explore my projects here.
-📄 View my resume here.
+📍 Based in Kolhapur, Maharashtra.                                                                                                                                                                                                                                                                                                                          
+🌐 Explore my projects here.                                                                                                                                                                       
+📄 View my resume here.                                                                                                                                                                   
 ✉️ Reach me at shahidpatel9185@gmail.com | LinkedIn.
