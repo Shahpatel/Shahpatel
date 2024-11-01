@@ -1,6 +1,6 @@
 Hi, I'm Shahid Afsar Patel 👋
 
-👤 About Me:
+👤 About Me:                                                                                                                                                                                     
 Dynamic and detail-oriented SDET with expertise in automation testing using Cypress and Selenium, along with a strong foundation in Java and JavaScript. Skilled in manual and mobile testing, API testing, and ensuring software quality through comprehensive test planning and execution. Passionate about optimizing test processes, identifying issues early, and delivering reliable software solutions. Always eager to learn new tools and enhance my technical abilities.
 
 🧑‍💻 Currently expanding my skills in Test Automation Frameworks and API Testing.                                                                                                                   
